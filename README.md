@@ -1,5 +1,6 @@
 <h2 align="center">Project Closed
-<h3 align="center">It will be open sourced soon !
+<h3 align="center">It will be open sourced soon with !
+<h3 align="center">New Version with Django Support 
 <br />
 <br />
 <br />
